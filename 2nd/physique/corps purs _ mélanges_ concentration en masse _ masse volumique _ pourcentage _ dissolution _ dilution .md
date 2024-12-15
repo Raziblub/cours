@@ -18,9 +18,7 @@
 
 Pour calculer la **concentration en masse** (ou **concentration massique**) d'une solution, on utilise la formule suivante :
 
-$
-Cm = \frac{m}{V}
-$
+$Cm = \frac{m}{V}$
 
 où :
 
@@ -46,9 +44,7 @@ où :
 
 ### Solution :
 
-$
-Cm = \frac{10 \text{ g}}{0,5 \text{ L}} = 20 \text{ g/L}
-$
+$Cm = \frac{10 \text{ g}}{0,5 \text{ L}} = 20 \text{ g/L}$
 
 La concentration en masse de la solution est donc de **20 g/L**.
 
@@ -66,9 +62,7 @@ La **masse volumique** d'une substance est une mesure de la quantité de matièr
 
 La masse volumique $\rho$ se calcule à l'aide de la formule suivante :
 
-$
-\rho = \frac{m}{V}
-$
+$\rho = \frac{m}{V}$
 
 où :
 
