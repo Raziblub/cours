@@ -70,8 +70,8 @@ où :
 - $m$ est la masse de la substance (en kilogrammes, kg, ou en grammes, g),
 - $V$ est le volume de la substance (en mètres cubes, m³, ou en millilitres, mL).
 
-# Solutions aqeuses
-- **Solution**:Mélange homogéne obtenue par dissolution d'un ou plusieur solutés dans un solvant.
-- **Soluté**:Cinstituant minoritaire d'une solution, substance (corp pur ou mélange) dissoute dans un solvant.
+# Solutions aqueuses
+- **Solution**: Mélange homogéne obtenue par dissolution d'un ou plusieur solutés dans un solvant.
+- **Soluté**: Cinstituant minoritaire d'une solution, substance (corp pur ou mélange) dissoute dans un solvant.
 - **Solvant**: constituant majoritaire d'une solution
-- **Solution aqueuse**:solution dont le solvant est l'eau
+- **Solution aqueuse**: solution dont le solvant est l'eau
