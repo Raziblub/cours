@@ -22,8 +22,8 @@ $5!=5 \times 4 \times 3 \times 2 \times 1$
 $\Delta \Omega \Theta \theta \rho \upsilon \epsilon$  
 $\angle60°$ $P(A \cap B)$ $P(A \cup B)$ $\vec{AB}$ $f\rq$
 
-1. First<sub>item</sub> H<sub>2</sub>O
-2. Second<sup>item</sup> H<sup>2</sup>O
+1. First<sub>item</sub> H^2^O
+2. Second<sup>item</sup> H~2~O
 3. Third item...
 4. Fourth item [Duck Duck Go](https://duckduckgo.com)
 
