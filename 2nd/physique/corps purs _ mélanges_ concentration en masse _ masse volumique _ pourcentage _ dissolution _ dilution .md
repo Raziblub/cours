@@ -18,9 +18,7 @@
 
 Pour calculer la **concentration en masse** (ou **concentration massique**) d'une solution, on utilise la formule suivante :
 
-$
-Cm = \frac{m}{V}
-$
+$Cm = \frac{m}{V}$
 
 où :
 
@@ -46,9 +44,7 @@ où :
 
 ### Solution :
 
-$
-Cm = \frac{10 \text{ g}}{0,5 \text{ L}} = 20 \text{ g/L}
-$
+$Cm = \frac{10 \text{ g}}{0,5 \text{ L}} = 20 \text{ g/L}$
 
 La concentration en masse de la solution est donc de **20 g/L**.
 
@@ -66,9 +62,7 @@ La **masse volumique** d'une substance est une mesure de la quantité de matièr
 
 La masse volumique $\rho$ se calcule à l'aide de la formule suivante :
 
-$
-\rho = \frac{m}{V}
-$
+$\rho = \frac{m}{V}$
 
 où :
 
@@ -76,8 +70,8 @@ où :
 - $m$ est la masse de la substance (en kilogrammes, kg, ou en grammes, g),
 - $V$ est le volume de la substance (en mètres cubes, m³, ou en millilitres, mL).
 
-# Solutions aqeuses
-- **Solution**:Mélange homogéne obtenue par dissolution d'un ou plusieur solutés dans un solvant.
-- **Soluté**:Cinstituant minoritaire d'une solution, substance (corp pur ou mélange) dissoute dans un solvant.
+# Solutions aqueuses
+- **Solution**: Mélange homogéne obtenue par dissolution d'un ou plusieur solutés dans un solvant.
+- **Soluté**: Cinstituant minoritaire d'une solution, substance (corp pur ou mélange) dissoute dans un solvant.
 - **Solvant**: constituant majoritaire d'une solution
-- **Solution aqueuse**:solution dont le solvant est l'eau
+- **Solution aqueuse**: solution dont le solvant est l'eau
