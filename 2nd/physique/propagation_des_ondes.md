@@ -1,5 +1,5 @@
 
-# Propagation des ondes (niveau seconde)
+# Propagation des ondes
 
 ## 1. Qu'est-ce qu'une onde ?
 
